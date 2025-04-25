@@ -1,9 +1,7 @@
-# helloworld
+# NVDA股票行情插件
 
-AstrBot 插件模板
+查询NVDA股票实时行情
 
-A template plugin for AstrBot plugin feature
+## 使用方式
 
-# 支持
-
-[帮助文档](https://astrbot.app)
+发送 `/nvda` 指令获取最新行情
